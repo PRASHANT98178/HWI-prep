@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PRASHANT98178/HWI-prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PRASHANT98178/HWI-prep/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/PRASHANT98178/HWI-prep/tree/master/0560-subarray-sum-equals-k) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PRASHANT98178/HWI-prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
