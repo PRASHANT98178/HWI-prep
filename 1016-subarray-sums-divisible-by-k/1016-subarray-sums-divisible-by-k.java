@@ -1,8 +1,10 @@
 class Solution {
     public int subarraysDivByK(int[] arr, int k) {
         int n = arr.length;
-        HashMap<Integer, Integer> map = new HashMap<>();
-        map.put(0, 1);  
+        // HashMap<Integer, Integer> map = new HashMap<>();
+        int[] map = new int[k];
+        // map.put(0, 1);  
+        map[0] = 1;
         int sum = 0;
         int count = 0;
 
@@ -17,12 +19,15 @@ class Solution {
 
             
             // count += map.getOrDefault(remainder, 0);
-            if(map.containsKey(remainder)){
-                count += map.get(remainder);
-            }
+            // if(map.containsKey(remainder)){
+                count += map[remainder];
+                // .get(remainder);
+            // }
+
 
             
-            map.put(remainder, map.getOrDefault(remainder, 0) + 1);
+            // map.put(remainder, map.getOrDefault(remainder, 0) + 1);
+            map[remainder]++;
         }
 
         return count;
