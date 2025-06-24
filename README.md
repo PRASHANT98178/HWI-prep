@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PRASHANT98178/HWI-prep/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PRASHANT98178/HWI-prep/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/PRASHANT98178/HWI-prep/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/PRASHANT98178/HWI-prep/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/PRASHANT98178/HWI-prep/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PRASHANT98178/HWI-prep/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PRASHANT98178/HWI-prep/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/PRASHANT98178/HWI-prep/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/PRASHANT98178/HWI-prep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PRASHANT98178/HWI-prep/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/PRASHANT98178/HWI-prep/tree/master/0560-subarray-sum-equals-k) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/PRASHANT98178/HWI-prep/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/PRASHANT98178/HWI-prep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PRASHANT98178/HWI-prep/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/PRASHANT98178/HWI-prep/tree/master/0435-non-overlapping-intervals) |
@@ -87,5 +90,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/PRASHANT98178/HWI-prep/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/PRASHANT98178/HWI-prep/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
