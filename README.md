@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PRASHANT98178/HWI-prep/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PRASHANT98178/HWI-prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0455-assign-cookies](https://github.com/PRASHANT98178/HWI-prep/tree/master/0455-assign-cookies) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/PRASHANT98178/HWI-prep/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -93,10 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PRASHANT98178/HWI-prep/tree/master/0005-longest-palindromic-substring) |
 | [0435-non-overlapping-intervals](https://github.com/PRASHANT98178/HWI-prep/tree/master/0435-non-overlapping-intervals) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PRASHANT98178/HWI-prep/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/PRASHANT98178/HWI-prep/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/PRASHANT98178/HWI-prep/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
