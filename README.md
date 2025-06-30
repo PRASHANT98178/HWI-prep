@@ -126,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/PRASHANT98178/HWI-prep/tree/master/0219-contains-duplicate-ii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/PRASHANT98178/HWI-prep/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/PRASHANT98178/HWI-prep/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
