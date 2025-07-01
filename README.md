@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/PRASHANT98178/HWI-prep/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PRASHANT98178/HWI-prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/PRASHANT98178/HWI-prep/tree/master/0049-group-anagrams) |
+| [0064-minimum-path-sum](https://github.com/PRASHANT98178/HWI-prep/tree/master/0064-minimum-path-sum) |
 | [0217-contains-duplicate](https://github.com/PRASHANT98178/HWI-prep/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PRASHANT98178/HWI-prep/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/PRASHANT98178/HWI-prep/tree/master/0347-top-k-frequent-elements) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PRASHANT98178/HWI-prep/tree/master/0005-longest-palindromic-substring) |
+| [0064-minimum-path-sum](https://github.com/PRASHANT98178/HWI-prep/tree/master/0064-minimum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/PRASHANT98178/HWI-prep/tree/master/0435-non-overlapping-intervals) |
 ## String
 |  |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/PRASHANT98178/HWI-prep/tree/master/0023-merge-k-sorted-lists) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/PRASHANT98178/HWI-prep/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
