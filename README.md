@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PRASHANT98178/HWI-prep/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/PRASHANT98178/HWI-prep/tree/master/0006-zigzag-conversion) |
 | [0043-multiply-strings](https://github.com/PRASHANT98178/HWI-prep/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/PRASHANT98178/HWI-prep/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/PRASHANT98178/HWI-prep/tree/master/0242-valid-anagram) |
