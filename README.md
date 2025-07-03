@@ -158,15 +158,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/PRASHANT98178/HWI-prep/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/PRASHANT98178/HWI-prep/tree/master/0206-reverse-linked-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/PRASHANT98178/HWI-prep/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/PRASHANT98178/HWI-prep/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/PRASHANT98178/HWI-prep/tree/master/0043-multiply-strings) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/PRASHANT98178/HWI-prep/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/PRASHANT98178/HWI-prep/tree/master/0043-multiply-strings) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/PRASHANT98178/HWI-prep/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -175,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/PRASHANT98178/HWI-prep/tree/master/0064-minimum-path-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/PRASHANT98178/HWI-prep/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
