@@ -159,12 +159,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/PRASHANT98178/HWI-prep/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/PRASHANT98178/HWI-prep/tree/master/0206-reverse-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/PRASHANT98178/HWI-prep/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/PRASHANT98178/HWI-prep/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/PRASHANT98178/HWI-prep/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/PRASHANT98178/HWI-prep/tree/master/0043-multiply-strings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/PRASHANT98178/HWI-prep/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/PRASHANT98178/HWI-prep/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -182,4 +184,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/PRASHANT98178/HWI-prep/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/PRASHANT98178/HWI-prep/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 <!---LeetCode Topics End-->
