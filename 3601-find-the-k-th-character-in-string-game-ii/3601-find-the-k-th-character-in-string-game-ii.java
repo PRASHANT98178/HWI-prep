@@ -19,8 +19,8 @@ class Solution {
         }
         char ch = kthCharacter(newK, operations);
         if(operationtype == 0) return ch;
-            
-        return ch == 'z' ? 'a' : (char)(ch + 1);
 
+            
+        return ch == 'z' ? 'a' : ++ch;
     }
 }
