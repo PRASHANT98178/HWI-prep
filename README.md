@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/PRASHANT98178/HWI-prep/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/PRASHANT98178/HWI-prep/tree/master/0594-longest-harmonious-subsequence) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/PRASHANT98178/HWI-prep/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/PRASHANT98178/HWI-prep/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/PRASHANT98178/HWI-prep/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/PRASHANT98178/HWI-prep/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Hash Table
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/PRASHANT98178/HWI-prep/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PRASHANT98178/HWI-prep/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/PRASHANT98178/HWI-prep/tree/master/0455-assign-cookies) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/PRASHANT98178/HWI-prep/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Sorting
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PRASHANT98178/HWI-prep/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/PRASHANT98178/HWI-prep/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/PRASHANT98178/HWI-prep/tree/master/0594-longest-harmonious-subsequence) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/PRASHANT98178/HWI-prep/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Dynamic Programming
 |  |
 | ------- |
