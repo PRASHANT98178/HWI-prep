@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/PRASHANT98178/HWI-prep/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/PRASHANT98178/HWI-prep/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/PRASHANT98178/HWI-prep/tree/master/1829-maximum-units-on-a-truck) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/PRASHANT98178/HWI-prep/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/PRASHANT98178/HWI-prep/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/PRASHANT98178/HWI-prep/tree/master/0768-partition-labels) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/PRASHANT98178/HWI-prep/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/PRASHANT98178/HWI-prep/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/PRASHANT98178/HWI-prep/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/PRASHANT98178/HWI-prep/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/PRASHANT98178/HWI-prep/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/PRASHANT98178/HWI-prep/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
