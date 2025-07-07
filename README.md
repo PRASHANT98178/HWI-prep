@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/PRASHANT98178/HWI-prep/tree/master/0594-longest-harmonious-subsequence) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/PRASHANT98178/HWI-prep/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/PRASHANT98178/HWI-prep/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/PRASHANT98178/HWI-prep/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/PRASHANT98178/HWI-prep/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/PRASHANT98178/HWI-prep/tree/master/1829-maximum-units-on-a-truck) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/PRASHANT98178/HWI-prep/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/PRASHANT98178/HWI-prep/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/PRASHANT98178/HWI-prep/tree/master/0768-partition-labels) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/PRASHANT98178/HWI-prep/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/PRASHANT98178/HWI-prep/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1829-maximum-units-on-a-truck](https://github.com/PRASHANT98178/HWI-prep/tree/master/1829-maximum-units-on-a-truck) |
 ## Sorting
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/PRASHANT98178/HWI-prep/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/PRASHANT98178/HWI-prep/tree/master/0594-longest-harmonious-subsequence) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/PRASHANT98178/HWI-prep/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/PRASHANT98178/HWI-prep/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1829-maximum-units-on-a-truck](https://github.com/PRASHANT98178/HWI-prep/tree/master/1829-maximum-units-on-a-truck) |
 ## Dynamic Programming
 |  |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/PRASHANT98178/HWI-prep/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/PRASHANT98178/HWI-prep/tree/master/0347-top-k-frequent-elements) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/PRASHANT98178/HWI-prep/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Bucket Sort
 |  |
 | ------- |
