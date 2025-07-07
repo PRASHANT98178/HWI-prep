@@ -9,10 +9,10 @@ class Solution {
                 truckSize -= boxTypes[i][0];
             }
             else{
-                int rem = boxTypes[i][0] - truckSize;
-                int exceed =  boxTypes[i][0] - rem;
+                // int rem = boxTypes[i][0] - truckSize;
+                // int exceed =  boxTypes[i][0] - rem;
 
-                ans += exceed * boxTypes[i][1];
+                ans += truckSize * boxTypes[i][1];
                 truckSize = 0;
             }
         }
