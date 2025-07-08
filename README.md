@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/PRASHANT98178/HWI-prep/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/PRASHANT98178/HWI-prep/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/PRASHANT98178/HWI-prep/tree/master/0594-longest-harmonious-subsequence) |
+| [0917-boats-to-save-people](https://github.com/PRASHANT98178/HWI-prep/tree/master/0917-boats-to-save-people) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/PRASHANT98178/HWI-prep/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/PRASHANT98178/HWI-prep/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/PRASHANT98178/HWI-prep/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/PRASHANT98178/HWI-prep/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/PRASHANT98178/HWI-prep/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/PRASHANT98178/HWI-prep/tree/master/0768-partition-labels) |
+| [0917-boats-to-save-people](https://github.com/PRASHANT98178/HWI-prep/tree/master/0917-boats-to-save-people) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/PRASHANT98178/HWI-prep/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Greedy
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PRASHANT98178/HWI-prep/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/PRASHANT98178/HWI-prep/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/PRASHANT98178/HWI-prep/tree/master/0768-partition-labels) |
+| [0917-boats-to-save-people](https://github.com/PRASHANT98178/HWI-prep/tree/master/0917-boats-to-save-people) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/PRASHANT98178/HWI-prep/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/PRASHANT98178/HWI-prep/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1829-maximum-units-on-a-truck](https://github.com/PRASHANT98178/HWI-prep/tree/master/1829-maximum-units-on-a-truck) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PRASHANT98178/HWI-prep/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/PRASHANT98178/HWI-prep/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/PRASHANT98178/HWI-prep/tree/master/0594-longest-harmonious-subsequence) |
+| [0917-boats-to-save-people](https://github.com/PRASHANT98178/HWI-prep/tree/master/0917-boats-to-save-people) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/PRASHANT98178/HWI-prep/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/PRASHANT98178/HWI-prep/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1829-maximum-units-on-a-truck](https://github.com/PRASHANT98178/HWI-prep/tree/master/1829-maximum-units-on-a-truck) |
