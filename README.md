@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PRASHANT98178/HWI-prep/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PRASHANT98178/HWI-prep/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/PRASHANT98178/HWI-prep/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/PRASHANT98178/HWI-prep/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/PRASHANT98178/HWI-prep/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/PRASHANT98178/HWI-prep/tree/master/0056-merge-intervals) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PRASHANT98178/HWI-prep/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/PRASHANT98178/HWI-prep/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/PRASHANT98178/HWI-prep/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/PRASHANT98178/HWI-prep/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/PRASHANT98178/HWI-prep/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/PRASHANT98178/HWI-prep/tree/master/0217-contains-duplicate) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/PRASHANT98178/HWI-prep/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/PRASHANT98178/HWI-prep/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/PRASHANT98178/HWI-prep/tree/master/0064-minimum-path-sum) |
 ## Bit Manipulation
