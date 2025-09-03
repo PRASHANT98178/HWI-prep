@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/PRASHANT98178/HWI-prep/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/PRASHANT98178/HWI-prep/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1829-maximum-units-on-a-truck](https://github.com/PRASHANT98178/HWI-prep/tree/master/1829-maximum-units-on-a-truck) |
+| [2032-largest-odd-number-in-string](https://github.com/PRASHANT98178/HWI-prep/tree/master/2032-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/PRASHANT98178/HWI-prep/tree/master/0242-valid-anagram) |
 | [0768-partition-labels](https://github.com/PRASHANT98178/HWI-prep/tree/master/0768-partition-labels) |
 | [1078-remove-outermost-parentheses](https://github.com/PRASHANT98178/HWI-prep/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/PRASHANT98178/HWI-prep/tree/master/2032-largest-odd-number-in-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/PRASHANT98178/HWI-prep/tree/master/3617-find-the-original-typed-string-i) |
 ## Divide and Conquer
 |  |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/PRASHANT98178/HWI-prep/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/PRASHANT98178/HWI-prep/tree/master/0189-rotate-array) |
 | [0797-rabbits-in-forest](https://github.com/PRASHANT98178/HWI-prep/tree/master/0797-rabbits-in-forest) |
+| [2032-largest-odd-number-in-string](https://github.com/PRASHANT98178/HWI-prep/tree/master/2032-largest-odd-number-in-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/PRASHANT98178/HWI-prep/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/PRASHANT98178/HWI-prep/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
