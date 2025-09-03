@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/PRASHANT98178/HWI-prep/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/PRASHANT98178/HWI-prep/tree/master/0242-valid-anagram) |
 | [0768-partition-labels](https://github.com/PRASHANT98178/HWI-prep/tree/master/0768-partition-labels) |
+| [1078-remove-outermost-parentheses](https://github.com/PRASHANT98178/HWI-prep/tree/master/1078-remove-outermost-parentheses) |
 | [3617-find-the-original-typed-string-i](https://github.com/PRASHANT98178/HWI-prep/tree/master/3617-find-the-original-typed-string-i) |
 ## Divide and Conquer
 |  |
@@ -247,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/PRASHANT98178/HWI-prep/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/PRASHANT98178/HWI-prep/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
