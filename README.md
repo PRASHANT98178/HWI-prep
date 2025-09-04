@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/PRASHANT98178/HWI-prep/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/PRASHANT98178/HWI-prep/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/PRASHANT98178/HWI-prep/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/PRASHANT98178/HWI-prep/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/PRASHANT98178/HWI-prep/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PRASHANT98178/HWI-prep/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/PRASHANT98178/HWI-prep/tree/master/0242-valid-anagram) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/PRASHANT98178/HWI-prep/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/PRASHANT98178/HWI-prep/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/PRASHANT98178/HWI-prep/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/PRASHANT98178/HWI-prep/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PRASHANT98178/HWI-prep/tree/master/0242-valid-anagram) |
 | [0768-partition-labels](https://github.com/PRASHANT98178/HWI-prep/tree/master/0768-partition-labels) |
 | [1078-remove-outermost-parentheses](https://github.com/PRASHANT98178/HWI-prep/tree/master/1078-remove-outermost-parentheses) |
