@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PRASHANT98178/HWI-prep/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/PRASHANT98178/HWI-prep/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/PRASHANT98178/HWI-prep/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PRASHANT98178/HWI-prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/PRASHANT98178/HWI-prep/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/PRASHANT98178/HWI-prep/tree/master/0037-sudoku-solver) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/PRASHANT98178/HWI-prep/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/PRASHANT98178/HWI-prep/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/PRASHANT98178/HWI-prep/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/PRASHANT98178/HWI-prep/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/PRASHANT98178/HWI-prep/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/PRASHANT98178/HWI-prep/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/PRASHANT98178/HWI-prep/tree/master/0151-reverse-words-in-a-string) |
@@ -255,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/PRASHANT98178/HWI-prep/tree/master/1078-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/PRASHANT98178/HWI-prep/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
