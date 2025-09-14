@@ -282,5 +282,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/PRASHANT98178/HWI-prep/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/PRASHANT98178/HWI-prep/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/PRASHANT98178/HWI-prep/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/PRASHANT98178/HWI-prep/tree/master/0596-classes-with-at-least-5-students) |
 | [1179-game-play-analysis-i](https://github.com/PRASHANT98178/HWI-prep/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
