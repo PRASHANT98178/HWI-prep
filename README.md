@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/PRASHANT98178/HWI-prep/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/PRASHANT98178/HWI-prep/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PRASHANT98178/HWI-prep/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/PRASHANT98178/HWI-prep/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PRASHANT98178/HWI-prep/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/PRASHANT98178/HWI-prep/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/PRASHANT98178/HWI-prep/tree/master/0435-non-overlapping-intervals) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/PRASHANT98178/HWI-prep/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PRASHANT98178/HWI-prep/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/PRASHANT98178/HWI-prep/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/PRASHANT98178/HWI-prep/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/PRASHANT98178/HWI-prep/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/PRASHANT98178/HWI-prep/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/PRASHANT98178/HWI-prep/tree/master/0594-longest-harmonious-subsequence) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/PRASHANT98178/HWI-prep/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/PRASHANT98178/HWI-prep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PRASHANT98178/HWI-prep/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/PRASHANT98178/HWI-prep/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/PRASHANT98178/HWI-prep/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/PRASHANT98178/HWI-prep/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PRASHANT98178/HWI-prep/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/PRASHANT98178/HWI-prep/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/PRASHANT98178/HWI-prep/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/PRASHANT98178/HWI-prep/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/PRASHANT98178/HWI-prep/tree/master/0268-missing-number) |
 | [0797-rabbits-in-forest](https://github.com/PRASHANT98178/HWI-prep/tree/master/0797-rabbits-in-forest) |
 | [2032-largest-odd-number-in-string](https://github.com/PRASHANT98178/HWI-prep/tree/master/2032-largest-odd-number-in-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/PRASHANT98178/HWI-prep/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/PRASHANT98178/HWI-prep/tree/master/0268-missing-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/PRASHANT98178/HWI-prep/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/PRASHANT98178/HWI-prep/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Design
@@ -257,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/PRASHANT98178/HWI-prep/tree/master/0268-missing-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/PRASHANT98178/HWI-prep/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Stack
 |  |
