@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/PRASHANT98178/HWI-prep/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/PRASHANT98178/HWI-prep/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/PRASHANT98178/HWI-prep/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/PRASHANT98178/HWI-prep/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/PRASHANT98178/HWI-prep/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/PRASHANT98178/HWI-prep/tree/master/0064-minimum-path-sum) |
 | [0134-gas-station](https://github.com/PRASHANT98178/HWI-prep/tree/master/0134-gas-station) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/PRASHANT98178/HWI-prep/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/PRASHANT98178/HWI-prep/tree/master/0054-spiral-matrix) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/PRASHANT98178/HWI-prep/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Merge Sort
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/PRASHANT98178/HWI-prep/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/PRASHANT98178/HWI-prep/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/PRASHANT98178/HWI-prep/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/PRASHANT98178/HWI-prep/tree/master/0064-minimum-path-sum) |
 ## Bit Manipulation
 |  |
