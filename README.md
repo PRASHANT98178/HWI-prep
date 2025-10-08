@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/PRASHANT98178/HWI-prep/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PRASHANT98178/HWI-prep/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/PRASHANT98178/HWI-prep/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/PRASHANT98178/HWI-prep/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/PRASHANT98178/HWI-prep/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PRASHANT98178/HWI-prep/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/PRASHANT98178/HWI-prep/tree/master/0455-assign-cookies) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/PRASHANT98178/HWI-prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PRASHANT98178/HWI-prep/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/PRASHANT98178/HWI-prep/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/PRASHANT98178/HWI-prep/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/PRASHANT98178/HWI-prep/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/PRASHANT98178/HWI-prep/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/PRASHANT98178/HWI-prep/tree/master/0594-longest-harmonious-subsequence) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/PRASHANT98178/HWI-prep/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/PRASHANT98178/HWI-prep/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/PRASHANT98178/HWI-prep/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/PRASHANT98178/HWI-prep/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/PRASHANT98178/HWI-prep/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/PRASHANT98178/HWI-prep/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/PRASHANT98178/HWI-prep/tree/master/0768-partition-labels) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/PRASHANT98178/HWI-prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PRASHANT98178/HWI-prep/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/PRASHANT98178/HWI-prep/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/PRASHANT98178/HWI-prep/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/PRASHANT98178/HWI-prep/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PRASHANT98178/HWI-prep/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/PRASHANT98178/HWI-prep/tree/master/0455-assign-cookies) |
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/PRASHANT98178/HWI-prep/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/PRASHANT98178/HWI-prep/tree/master/0349-intersection-of-two-arrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/PRASHANT98178/HWI-prep/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Stack
 |  |
