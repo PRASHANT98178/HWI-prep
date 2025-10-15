@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/PRASHANT98178/HWI-prep/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/PRASHANT98178/HWI-prep/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/PRASHANT98178/HWI-prep/tree/master/0064-minimum-path-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/PRASHANT98178/HWI-prep/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/PRASHANT98178/HWI-prep/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/PRASHANT98178/HWI-prep/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/PRASHANT98178/HWI-prep/tree/master/0189-rotate-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/PRASHANT98178/HWI-prep/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/PRASHANT98178/HWI-prep/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/PRASHANT98178/HWI-prep/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/PRASHANT98178/HWI-prep/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/PRASHANT98178/HWI-prep/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/PRASHANT98178/HWI-prep/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/PRASHANT98178/HWI-prep/tree/master/0217-contains-duplicate) |
@@ -319,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-salary](https://github.com/PRASHANT98178/HWI-prep/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/PRASHANT98178/HWI-prep/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1179-game-play-analysis-i](https://github.com/PRASHANT98178/HWI-prep/tree/master/1179-game-play-analysis-i) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/PRASHANT98178/HWI-prep/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
