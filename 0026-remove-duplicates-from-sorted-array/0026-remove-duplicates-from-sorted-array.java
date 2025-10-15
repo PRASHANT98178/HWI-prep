@@ -4,15 +4,16 @@ class Solution {
         int j=1;
         int k=1;
 
-        while(j<nums.length){
-            if(nums[i] == nums[j]){
-                j++;
-            }
+        while(j < nums.length){
+            if(nums[i] == nums[j]) j++;
             else{
+                int temp = nums[k];
                 nums[k] = nums[j];
+                nums[j] = temp;
+
                 i++;
-                k++;
                 j++;
+                k++;
             }
         }
         return i+1;
