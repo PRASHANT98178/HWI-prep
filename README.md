@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/PRASHANT98178/HWI-prep/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/PRASHANT98178/HWI-prep/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/PRASHANT98178/HWI-prep/tree/master/0064-minimum-path-sum) |
+| [0118-pascals-triangle](https://github.com/PRASHANT98178/HWI-prep/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/PRASHANT98178/HWI-prep/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/PRASHANT98178/HWI-prep/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/PRASHANT98178/HWI-prep/tree/master/0169-majority-element) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/PRASHANT98178/HWI-prep/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/PRASHANT98178/HWI-prep/tree/master/0010-regular-expression-matching) |
 | [0064-minimum-path-sum](https://github.com/PRASHANT98178/HWI-prep/tree/master/0064-minimum-path-sum) |
+| [0118-pascals-triangle](https://github.com/PRASHANT98178/HWI-prep/tree/master/0118-pascals-triangle) |
 | [0435-non-overlapping-intervals](https://github.com/PRASHANT98178/HWI-prep/tree/master/0435-non-overlapping-intervals) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/PRASHANT98178/HWI-prep/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## String
