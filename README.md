@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/PRASHANT98178/HWI-prep/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1829-maximum-units-on-a-truck](https://github.com/PRASHANT98178/HWI-prep/tree/master/1829-maximum-units-on-a-truck) |
 | [2032-largest-odd-number-in-string](https://github.com/PRASHANT98178/HWI-prep/tree/master/2032-largest-odd-number-in-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/PRASHANT98178/HWI-prep/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Sorting
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/PRASHANT98178/HWI-prep/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/PRASHANT98178/HWI-prep/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/PRASHANT98178/HWI-prep/tree/master/2032-largest-odd-number-in-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/PRASHANT98178/HWI-prep/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3617-find-the-original-typed-string-i](https://github.com/PRASHANT98178/HWI-prep/tree/master/3617-find-the-original-typed-string-i) |
 ## Divide and Conquer
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/PRASHANT98178/HWI-prep/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/PRASHANT98178/HWI-prep/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/PRASHANT98178/HWI-prep/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/PRASHANT98178/HWI-prep/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Quickselect
 |  |
 | ------- |
